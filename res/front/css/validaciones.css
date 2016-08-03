@@ -1,0 +1,8 @@
+.oculto{
+	visibility: hidden;
+}
+
+.visible{
+	background-color: #ffefef;
+	min-width: 250px;
+}
