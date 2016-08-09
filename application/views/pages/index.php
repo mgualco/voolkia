@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Recursos Humanos - Solicitud de Servicios</title>
+    <title>Recursos Humanos - Solicitud de Servicio</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="res/front/css/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
